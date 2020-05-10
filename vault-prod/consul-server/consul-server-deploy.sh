@@ -17,7 +17,7 @@ sudo apt update -y
 sudo apt install unzip -y
 
 # Download consul binary
-CONSUL_VERSION="1.4.1"
+CONSUL_VERSION="0.0.0"
 wget https://releases.hashicorp.com/consul/${CONSUL_VERSION}/consul_${CONSUL_VERSION}_linux_amd64.zip
 
 # Unzip binary

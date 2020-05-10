@@ -1,5 +1,5 @@
 # Set version
-VAULT_VERSION="1.0.1"
+VAULT_VERSION="0.0.0"
 
 # Download Vault binary
 wget https://releases.hashicorp.com/vault/${VAULT_VERSION}/vault_${VAULT_VERSION}_linux_amd64.zip
